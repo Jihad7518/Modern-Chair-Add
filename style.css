@@ -67,5 +67,12 @@ p {
   height: 40px;
   transition: all 200ms linear;
   border-radius: 4px;
+  width: 40px;
+  overflow: hidden;
+  border: none;
+  cursor: pointer;
+  color: #ffeba7;
+  margin-right: 10px;
+  
 
 }
