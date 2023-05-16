@@ -116,5 +116,9 @@ label.first-color {
     z-index: 9;
     transition: all 550ms linear;
     transition-delay: 100ms;
-    
+    background-position: center top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("./images/chair1.png");
+    opacity: 0;
 }
