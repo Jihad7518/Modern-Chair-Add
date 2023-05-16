@@ -149,3 +149,10 @@ label.first-color {
     opacity: 1;
     animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
+  .img-wrap.chair-5 {
+    background-image: url("./images/chair5.png");
+}
+  .for-color-5:checked ~ .img-wrap.chair-5 {
+    opacity: 1;
+    animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
