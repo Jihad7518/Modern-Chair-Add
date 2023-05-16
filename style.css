@@ -105,3 +105,12 @@ label.first-color {
   label.color-6 {
     background-image: url("./images/color6.jpg");
 }
+
+.img-wrap {
+    position: absolute;
+    top: 100px;
+    left: 0;
+    width: 500px;
+    height: 410px;
+    
+}
