@@ -234,3 +234,10 @@ label.first-color {
     opacity: 1;
 }
 
+.info-wrap {
+    position: relative;
+    margin-left: 500px;
+    z-index: 10;
+    display: block;
+    text-align: left;
+}
