@@ -226,3 +226,11 @@ label.first-color {
   .for-color-5:checked ~ .back-color.chair-5 {
     opacity: 1;
   }
+.back-color.chair-6 {
+    background-image: linear-gradient(196deg, #aaadac, #838786);
+    opacity: 0;
+  }
+  .for-color-6:checked ~ .back-color.chair-6 {
+    opacity: 1;
+}
+
