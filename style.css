@@ -198,3 +198,10 @@ label.first-color {
     transition-delay: 300ms;
 }
 
+.back-color.chair-2 {
+    background-image: linear-gradient(196deg, #4c4c4c, #262626);
+    opacity: 0;
+  }
+  .for-color-2:checked ~ .back-color.chair-2 {
+    opacity: 1;
+  }
