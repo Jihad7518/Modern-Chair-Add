@@ -290,3 +290,12 @@ h5 {
     margin-top: 0;
     margin-bottom: 20px;
 }
+
+.desc-btn:checked + label,
+.desc-btn:not(:checked) + label {
+  position: relative;
+  transition: all 200ms linear;
+  display: inline-block;
+  border: none;
+  
+}
