@@ -241,3 +241,11 @@ label.first-color {
     display: block;
     text-align: left;
 }
+
+.title-up {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+}
