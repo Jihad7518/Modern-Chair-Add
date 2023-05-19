@@ -344,3 +344,10 @@ h5 {
     pointer-events: auto;
     transform: translateY(0);
 }
+
+.section-inline {
+    position: relative;
+    display: inline-block;
+    margin-right: 20px; 
+}
+
