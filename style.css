@@ -338,3 +338,9 @@ h5 {
     pointer-events: auto;
     transform: translateY(0);
 }
+
+#desc-2:checked ~ .desc-sec.accor-2 {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
