@@ -314,3 +314,13 @@ h5 {
   .desc-btn:not(:checked) + label:hover {
     opacity: 0.8;
 }
+
+.desc-sec {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    transition: all 250ms linear;
+    opacity: 0;
+    overflow: hidden;
+    pointer-events: none;
+    transform: translateY(20px);
+}
