@@ -307,3 +307,10 @@ h5 {
   margin-right: 25px;
   opacity: 0.5;
 }
+
+.desc-btn:checked + label {
+    opacity: 1;
+}
+  .desc-btn:not(:checked) + label:hover {
+    opacity: 0.8;
+}
