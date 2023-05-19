@@ -369,5 +369,12 @@ h5 {
     align-items: center;
     justify-content: center;
     border: none;
-    
+    cursor: pointer;
+    overflow: hidden;
+    background-color: transparent;
+    color: #fff;
+    box-shadow: 0 6px 15px 0 rgba(16, 39, 112, 0.15);
+    transition: all 250ms linear;
+    text-decoration: none;
+    margin-top: 50px;
 }
