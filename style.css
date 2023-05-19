@@ -332,3 +332,9 @@ h5 {
     width: 100%;
     z-index: 2;
 }
+
+#desc-1:checked ~ .desc-sec.accor-1 {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
