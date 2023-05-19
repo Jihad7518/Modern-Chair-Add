@@ -351,3 +351,7 @@ h5 {
     margin-right: 20px; 
 }
 
+.section-inline p span {
+    font-size: 30px;
+    line-height: 1.1;
+}
