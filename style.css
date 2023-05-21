@@ -382,3 +382,15 @@ h5 {
     padding-right: 7px;
     font-size: 20px;
 }
+
+.btn:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    z-index: -1;
+    background-color: #944852;
+    transition: background-color 250ms 300ms ease;
+}
