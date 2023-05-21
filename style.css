@@ -414,3 +414,22 @@ h5 {
   .for-color-6:checked ~ .info-wrap .btn:before {
     background-color: #5d6160;
 }
+
+@media screen and (max-width: 991px) {
+    .section {
+      margin: 0 auto;
+      text-align: center;
+      max-width: calc(100% - 40px);
+      width: 370px;
+    }
+    label.first-color {
+      margin-left: 0;
+    }
+    .info-wrap {
+      margin-left: 0;
+      width: 370px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+}
