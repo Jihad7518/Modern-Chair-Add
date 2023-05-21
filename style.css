@@ -464,5 +464,16 @@ h5 {
     .info-wrap {
       width: 280px;
     }
-    
+    .color-btn:checked + label,
+    .color-btn:not(:checked) + label {
+      height: 30px;
+      width: 30px;
+    }
+    .section-inline p span {
+      font-size: 24px;
+      line-height: 1.1;
+    }
+    .section-inline p {
+      font-size: 14px;
+    }
 }
