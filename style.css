@@ -378,3 +378,7 @@ h5 {
     text-decoration: none;
     margin-top: 50px;
 }
+.icon {
+    padding-right: 7px;
+    font-size: 20px;
+}
