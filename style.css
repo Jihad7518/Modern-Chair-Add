@@ -456,3 +456,13 @@ h5 {
       margin: 0 5px;
     }
 }
+
+@media screen and (max-width: 575px) {
+    .section {
+      width: 280px;
+    }
+    .info-wrap {
+      width: 280px;
+    }
+    
+}
