@@ -394,3 +394,13 @@ h5 {
     background-color: #944852;
     transition: background-color 250ms 300ms ease;
 }
+
+.btn:hover {
+    box-shadow: 0 12px 35px 0 rgba(16, 39, 112, 0.25);
+    background-color: #333;
+  }
+  .for-color-2:checked ~ .info-wrap .btn:before {
+    background-color: #1a1a1a;
+  }
+
+}
